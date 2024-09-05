@@ -62,7 +62,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MSc Economics
-    institution: Massachusetts Institute of Technology
+    institution: Sant'Anna School of Advanced Studies
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
